@@ -11,11 +11,11 @@
     "servers": {
         "Default server 1": {}, // The config values are above, no need to write them again
         "Only IP changed": { // Only the IP is different for this server. So, change it
-            "ip": "192.168.1.2"
+            "ip": "51.89.235.154"
         },
         "Everything is different": {
-            "ip": "10.10.0.1",
-            "socketPort": "60121"
+            "ip": "51.89.235.154",
+            "socketPort": "30112"
         },
         "Reverse Proxy Example": {
             "reverseProxy": { // If you have knowledge on how to set up a "reverse proxy" for your webserver and want to keep the map on a secure connection, set the values below.
